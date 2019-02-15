@@ -25,9 +25,6 @@
 
   Mac系统下需要通过-XstartOnFirstThread参数启动，java -XstartOnFirstThread -jar Behinder.jar。
   
-* PHP连接有问题？
-
-  因为采用了aes加密，请确认PHP是否开启了OpenSSL扩展，可通过echo var_dump(function_exists("openssl_encrypt"));是否为true来判断。
   
 * 直接用浏览器访问shell会报错？
 
