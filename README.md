@@ -17,13 +17,10 @@
 
 ## 运行环境  
 
-  客户端：jre6~jre8   
-  服务端：.net 2.0+;php 5.4-7.2;java 6+   
+  客户端：jre8+   
+  服务端：.net 2.0+;php 5.3-7.4;java 6+   
 
 ## FAQ
-* Mac系统下好像打不开？
-
-  Mac系统下需要通过-XstartOnFirstThread参数启动，java -XstartOnFirstThread -jar Behinder.jar。
   
   
 * 直接用浏览器访问shell会报错？
