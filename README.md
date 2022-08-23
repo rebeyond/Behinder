@@ -15,6 +15,12 @@
 
 《利用动态二进制加密实现新型一句话木马之PHP篇》  https://xz.aliyun.com/t/2774 
 
+传输协议原理解析：
+
+《冰蝎v4.0传输协议详解》 https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A
+
+
+
 ## 运行环境  
 
   客户端：jre8+   
